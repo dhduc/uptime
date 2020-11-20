@@ -1,42 +1,18 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 88
-  },
-  {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 133
-  },
-  {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 341
-  },
-  {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
+    "name": "Engo Pro",
+    "url": "https://engo.pro",
+    "slug": "engo-pro",
     "status": "down",
-    "uptime": "99.28",
+    "uptime": "86.18",
     "time": 0
   },
   {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
+    "name": "Topmobile",
+    "url": "https://topmobile.site",
+    "slug": "topmobile",
     "status": "up",
     "uptime": "100.00",
-    "time": 49
+    "time": 875
   }
 ]
