@@ -4,10 +4,14 @@ repo: uptime # Your Github repository name
 
 # Add your sites here
 sites:
+  - name: ducdh.com
+    url: https://ducdh.com
   - name: Engo Pro
-    url: https://engo.pro
+    url: http://engo.pro
   - name: Topmobile
     url: https://topmobile.site
+  - name: Savid Top
+    url: https://savid.top
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
