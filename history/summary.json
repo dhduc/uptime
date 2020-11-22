@@ -5,7 +5,7 @@
     "slug": "ducdh-com",
     "status": "up",
     "uptime": "100.00",
-    "time": 1604
+    "time": 1548
   },
   {
     "name": "Engo Pro",
@@ -13,7 +13,7 @@
     "slug": "engo-pro",
     "status": "up",
     "uptime": "100.00",
-    "time": 184
+    "time": 320
   },
   {
     "name": "Topmobile",
@@ -21,7 +21,7 @@
     "slug": "topmobile",
     "status": "up",
     "uptime": "100.00",
-    "time": 620
+    "time": 641
   },
   {
     "name": "Savid Top",
@@ -29,6 +29,6 @@
     "slug": "savid-top",
     "status": "up",
     "uptime": "100.00",
-    "time": 2289
+    "time": 1994
   }
 ]
