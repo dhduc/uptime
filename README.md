@@ -1,4 +1,4 @@
-# [📈 Live Status](https://dhduc.github.io/uptime): <!--live status-->
+# [📈 Live Status](https://dhduc.github.io/uptime) <!--live status-->
 
 This repository contains the open-source uptime monitor and status page for [Duc Dao](https://ducdh.com), powered by [Upptime](https://github.com/upptime/upptime).
 
