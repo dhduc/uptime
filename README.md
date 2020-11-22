@@ -25,4 +25,4 @@
 
 - Code: [MIT](./LICENSE) © [Duc Dao](https://ducdh.com)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
-- owered by [Upptime](https://github.com/upptime/upptime).
+- Powered by [Upptime](https://github.com/upptime/upptime).
