@@ -1,34 +1,34 @@
 [
   {
-    "name": "ducdh.com",
+    "name": "Homepage",
     "url": "https://ducdh.com",
-    "slug": "ducdh-com",
+    "slug": "homepage",
     "status": "up",
-    "uptime": "100.00",
-    "time": 1548
+    "uptime": "100.00%",
+    "time": 1519
   },
   {
     "name": "Engo Pro",
     "url": "http://engo.pro",
     "slug": "engo-pro",
     "status": "up",
-    "uptime": "100.00",
-    "time": 320
+    "uptime": "63.32%",
+    "time": 434
   },
   {
-    "name": "Topmobile",
+    "name": "Top Mobile",
     "url": "https://topmobile.site",
-    "slug": "topmobile",
+    "slug": "top-mobile",
     "status": "up",
-    "uptime": "100.00",
-    "time": 641
+    "uptime": "100.00%",
+    "time": 747
   },
   {
     "name": "Savid Top",
     "url": "https://savid.top",
     "slug": "savid-top",
     "status": "up",
-    "uptime": "100.00",
-    "time": 1994
+    "uptime": "100.00%",
+    "time": 1885
   }
 ]
