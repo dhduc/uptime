@@ -5,15 +5,15 @@
     "slug": "homepage",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1470
+    "time": 1452
   },
   {
     "name": "Engo Pro",
     "url": "http://engo.pro",
     "slug": "engo-pro",
     "status": "up",
-    "uptime": "89.38%",
-    "time": 792
+    "uptime": "90.65%",
+    "time": 815
   },
   {
     "name": "Top Mobile",
@@ -21,7 +21,7 @@
     "slug": "top-mobile",
     "status": "up",
     "uptime": "100.00%",
-    "time": 757
+    "time": 756
   },
   {
     "name": "Savid Top",
@@ -29,6 +29,6 @@
     "slug": "savid-top",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1589
+    "time": 1553
   }
 ]
