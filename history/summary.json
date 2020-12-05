@@ -9,27 +9,27 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1424,
-    "timeDay": 1411,
-    "timeWeek": 1359,
-    "timeMonth": 1424,
-    "timeYear": 1424
+    "time": 1425,
+    "timeDay": 1445,
+    "timeWeek": 1373,
+    "timeMonth": 1425,
+    "timeYear": 1425
   },
   {
     "name": "Engo Pro",
     "url": "http://engo.pro",
     "slug": "engo-pro",
     "status": "up",
-    "uptime": "94.15%",
+    "uptime": "94.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.15%",
-    "uptimeYear": "94.15%",
-    "time": 1087,
-    "timeDay": 994,
+    "uptimeMonth": "94.56%",
+    "uptimeYear": "94.56%",
+    "time": 1091,
+    "timeDay": 1158,
     "timeWeek": 1063,
-    "timeMonth": 1087,
-    "timeYear": 1087
+    "timeMonth": 1091,
+    "timeYear": 1091
   },
   {
     "name": "Top Mobile",
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 713,
-    "timeDay": 476,
-    "timeWeek": 656,
-    "timeMonth": 713,
-    "timeYear": 713
+    "time": 724,
+    "timeDay": 872,
+    "timeWeek": 685,
+    "timeMonth": 724,
+    "timeYear": 724
   },
   {
     "name": "Savid Top",
@@ -57,10 +57,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1598,
-    "timeDay": 1634,
-    "timeWeek": 1617,
-    "timeMonth": 1598,
-    "timeYear": 1598
+    "time": 1599,
+    "timeDay": 1610,
+    "timeWeek": 1613,
+    "timeMonth": 1599,
+    "timeYear": 1599
   }
 ]
