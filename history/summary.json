@@ -1,84 +1,20 @@
 [
   {
-    "name": "Homepage",
-    "url": "https://ducdh.com",
-    "icon": "https://favicons.githubusercontent.com/ducdh.com",
-    "slug": "homepage",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "97.54%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 1453,
-    "timeDay": 1560,
-    "timeWeek": 1504,
-    "timeMonth": 1453,
-    "timeYear": 1453,
-    "dailyMinutesDown": {
-      "2020-12-10": 35
-    }
-  },
-  {
-    "name": "Engo Pro",
-    "url": "http://engo.pro",
-    "icon": "https://favicons.githubusercontent.com/engo.pro",
-    "slug": "engo-pro",
-    "status": "down",
-    "uptime": "96.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "96.00%",
-    "uptimeYear": "96.00%",
-    "time": 1164,
-    "timeDay": 1716,
-    "timeWeek": 1297,
-    "timeMonth": 1164,
-    "timeYear": 1164,
-    "dailyMinutesDown": {
-      "2020-12-10": 1,
-      "2020-11-21": 615,
-      "2020-11-20": 510
-    }
-  },
-  {
-    "name": "Top Mobile",
-    "url": "https://topmobile.site",
-    "icon": "https://favicons.githubusercontent.com/topmobile.site",
-    "slug": "top-mobile",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "97.62%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 748,
-    "timeDay": 873,
-    "timeWeek": 780,
-    "timeMonth": 748,
-    "timeYear": 748,
-    "dailyMinutesDown": {
-      "2020-12-10": 34
-    }
-  },
-  {
-    "name": "Savid Top",
-    "url": "https://savid.top",
-    "icon": "https://favicons.githubusercontent.com/savid.top",
-    "slug": "savid-top",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "97.65%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
-    "time": 1580,
-    "timeDay": 1513,
-    "timeWeek": 1547,
-    "timeMonth": 1580,
-    "timeYear": 1580,
-    "dailyMinutesDown": {
-      "2020-12-10": 34
-    }
+    "name": "Uptime",
+    "url": "http://up.engo.pro",
+    "icon": "https://favicons.githubusercontent.com/up.engo.pro",
+    "slug": "uptime",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 494,
+    "timeDay": 494,
+    "timeWeek": 494,
+    "timeMonth": 494,
+    "timeYear": 494,
+    "dailyMinutesDown": {}
   }
 ]
