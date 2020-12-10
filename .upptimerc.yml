@@ -4,14 +4,8 @@ repo: uptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Homepage
-    url: https://ducdh.com
-  - name: Engo Pro
-    url: http://engo.pro
-  - name: Top Mobile
-    url: https://topmobile.site
-  - name: Savid Top
-    url: https://savid.top
+  - name: Uptime
+    url: http://up.engo.pro
 
 assignees: # Users to assign downtime issues (optional)
   - dhduc
