@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/ducdh.com",
     "slug": "homepage",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.96%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 1453,
     "timeDay": 1560,
     "timeWeek": 1504,
     "timeMonth": 1453,
     "timeYear": 1453,
     "dailyMinutesDown": {
-      "2020-12-10": 2
+      "2020-12-10": 10
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "http://engo.pro",
     "icon": "https://favicons.githubusercontent.com/engo.pro",
     "slug": "engo-pro",
-    "status": "down",
-    "uptime": "95.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "95.99%",
-    "uptimeYear": "95.99%",
-    "time": 1109,
-    "timeDay": 1073,
-    "timeWeek": 1145,
-    "timeMonth": 1109,
-    "timeYear": 1109,
+    "status": "up",
+    "uptime": "95.97%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "95.97%",
+    "uptimeYear": "95.97%",
+    "time": 1164,
+    "timeDay": 1716,
+    "timeWeek": 1297,
+    "timeMonth": 1164,
+    "timeYear": 1164,
     "dailyMinutesDown": {
-      "2020-12-10": 1,
+      "2020-12-10": 8,
       "2020-11-21": 615,
       "2020-11-20": 510
     }
@@ -47,18 +47,18 @@
     "icon": "https://favicons.githubusercontent.com/topmobile.site",
     "slug": "top-mobile",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 748,
     "timeDay": 873,
     "timeWeek": 780,
     "timeMonth": 748,
     "timeYear": 748,
     "dailyMinutesDown": {
-      "2020-12-10": 1
+      "2020-12-10": 8
     }
   },
   {
@@ -67,18 +67,18 @@
     "icon": "https://favicons.githubusercontent.com/savid.top",
     "slug": "savid-top",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 1580,
     "timeDay": 1513,
     "timeWeek": 1547,
     "timeMonth": 1580,
     "timeYear": 1580,
     "dailyMinutesDown": {
-      "2020-12-10": 0
+      "2020-12-10": 8
     }
   }
 ]
