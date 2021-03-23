@@ -1,20 +1,23 @@
 [
   {
-    "name": "Uptime",
-    "url": "http://up.engo.pro",
-    "icon": "https://favicons.githubusercontent.com/up.engo.pro",
-    "slug": "uptime",
+    "name": "Homepage",
+    "url": "https://ducdh.com",
+    "icon": "https://favicons.githubusercontent.com/ducdh.com",
+    "slug": "homepage",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "0.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 467,
-    "timeDay": 460,
-    "timeWeek": 459,
-    "timeMonth": 459,
-    "timeYear": 467,
-    "dailyMinutesDown": {}
+    "uptimeYear": "0.00%",
+    "time": 1400,
+    "timeDay": 343,
+    "timeWeek": 343,
+    "timeMonth": 343,
+    "timeYear": 1400,
+    "dailyMinutesDown": {
+      "2020-12-11": 717,
+      "2020-12-10": 1215
+    }
   }
 ]
