@@ -4,8 +4,8 @@ repo: uptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Uptime
-    url: http://up.engo.pro
+  - name: Homepage
+    url: https://ducdh.com
 
 assignees: # Users to assign downtime issues (optional)
   - dhduc
